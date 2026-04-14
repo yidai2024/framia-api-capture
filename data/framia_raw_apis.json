@@ -1,0 +1,406 @@
+[
+  {
+    "url": "https://framia.pro/?invite_code=A2RAPVDB",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/",
+    "query": "invite_code=A2RAPVDB",
+    "timestamp": "2026-04-14T20:24:13.172283",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/cdn-cgi/speculation",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/cdn-cgi/speculation",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:13.939976",
+    "headers": {
+      "origin": "https://framia.pro",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://framia.pro/?invite_code=A2RAPVDB",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/speculationrules+json",
+    "resp_body": "{\"prefetch\":[{\"eagerness\":\"conservative\",\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\",\"relative_to\":\"document\"}]}}]}"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "method": "GET",
+    "domain": "static.cloudflareinsights.com",
+    "path": "/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:13.940789",
+    "headers": {
+      "origin": "https://framia.pro",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/javascript;charset=UTF-8"
+  },
+  {
+    "url": "https://framia.pro/cdn-cgi/rum?",
+    "method": "POST",
+    "domain": "framia.pro",
+    "path": "/cdn-cgi/rum",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:18.472299",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://framia.pro/?invite_code=A2RAPVDB",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": "{\"memory\":{\"totalJSHeapSize\":10000000,\"usedJSHeapSize\":10000000,\"jsHeapSizeLimit\":3760000000},\"resources\":[],\"referrer\":\"\",\"eventType\":1,\"firstPaint\":820,\"firstContentfulPaint\":820,\"startTime\":1776198253168.9,\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.2.0\",\"timings\":2},\"pageloadId\":\"e6e8e3a1-e241-44e8-b975-c246506933f2\",\"location\":\"https://framia.pro/\",\"nt\":\"navigate\",\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":3.5999999940395355,\"domainLookupEnd\":272.7000000178814,\"connectStart\":272.7000000178814,\"connectEnd\":595.0999999940395,\"requestStart\":595.5999999940395,\"responseStart\":755.7000000178814,\"responseEnd\":757.8000000119209,\"domInteractive\":807.7000000178814,\"domComplete\":1828.7000000178814,\"loadEventStart\":1828.800000011921,\"loadEventEnd\":1829.0999999940395,\"finalResponseHeadersStart\":755.7000000178814,\"firstInterimResponseStart\":0,\"transferSize\":1600,\"decodedBodySize\":2129},\"dt\":\"\",\"siteToken\":\"89398c55bd144c49a8e5803a4e3bdc50\",\"st\":2}",
+    "status": 204,
+    "content_type": "text/plain",
+    "resp_body": ""
+  },
+  {
+    "url": "https://framia.pro/",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:23.625810",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/create",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/create",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:32.917664",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/workspace",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/workspace",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:42.211040",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/login",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/login",
+    "query": "",
+    "timestamp": "2026-04-14T20:24:51.542292",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/signup",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/signup",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:00.843859",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/pricing",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/pricing",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:10.153071",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/gallery",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/gallery",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:19.442003",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/templates",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/templates",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:28.734506",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/models",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/models",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:38.046706",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/community",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/community",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:47.344189",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/settings",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/settings",
+    "query": "",
+    "timestamp": "2026-04-14T20:25:56.634775",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/profile",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/profile",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:05.930561",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/billing",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/billing",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:15.238058",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/credits",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/credits",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:24.529901",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/referral",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/referral",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:33.832299",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/docs",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/docs",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:43.120114",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://framia.pro/api-docs",
+    "method": "GET",
+    "domain": "framia.pro",
+    "path": "/api-docs",
+    "query": "",
+    "timestamp": "2026-04-14T20:26:52.405187",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 403,
+    "content_type": "text/html"
+  }
+]
